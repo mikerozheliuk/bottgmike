@@ -81,7 +81,7 @@ async def new_ewery_minute():
         else:
             await bot.send_message(user_id, "Поки нема свіжих новин...", disable_notification=True)
 
-        await asyncio.sleep(20)
+        await asyncio.sleep(360)
 
 if __name__ == '__main__':
     loop = asyncio.get_event_loop()
