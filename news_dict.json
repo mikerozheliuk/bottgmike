@@ -1,0 +1,104 @@
+{
+    "529082": {
+        "article_date_timestamp": 1643019333.0,
+        "article_title": "WhatsApp добавит двухэтапную проверку в настольной и web-версиях приложения",
+        "article_url": "https://www.securitylab.ru/news/529082.php",
+        "article_desc": "Добавление двухэтапной верификации обеспечит дополнительную защиту для пользователей."
+    },
+    "529147": {
+        "article_date_timestamp": 1643112008.0,
+        "article_title": "Джулиан Ассанж обжалует решение суда об экстрадиции в США",
+        "article_url": "https://www.securitylab.ru/news/529147.php",
+        "article_desc": "Право на обжалование еще не означает, что оно будет рассмотрено."
+    },
+    "529156": {
+        "article_date_timestamp": 1643115411.0,
+        "article_title": "ИБ-эксперт продемонстрировал, как легко можно взломать учетную запись в PayPal",
+        "article_url": "https://www.securitylab.ru/news/529156.php",
+        "article_desc": "Специалист использовал простой метод «серфинга через плечо»."
+    },
+    "529158": {
+        "article_date_timestamp": 1643117535.0,
+        "article_title": "Samsung представила новый чип для защиты платежных карт",
+        "article_url": "https://www.securitylab.ru/news/529158.php",
+        "article_desc": "S3B512C сочетает в себе датчик отпечатков пальцев, элемент защиты и защищенный процессор."
+    },
+    "529141": {
+        "article_date_timestamp": 1643104253.0,
+        "article_title": "Эксперты провели анализ вайпера WhisperGate",
+        "article_url": "https://www.securitylab.ru/news/529141.php",
+        "article_desc": "Вайпер похож на NotPetya, но имеет больше возможностей для нанесения дополнительного ущерба."
+    },
+    "529140": {
+        "article_date_timestamp": 1643102745.0,
+        "article_title": "Security-новости от Александра Антипова (securitylab.ru). Выпуск #45",
+        "article_url": "https://www.securitylab.ru/news/529140.php",
+        "article_desc": "В новом выпуске мы расскажем к чему может привести виртуальное клонирование людей, как используется антиCOVID-приложение в уголовном расследовании, к чему может привести арест участников группировки R..."
+    },
+    "529139": {
+        "article_date_timestamp": 1643100759.0,
+        "article_title": "МИД Канады подвергся кибератаке",
+        "article_url": "https://www.securitylab.ru/news/529139.php",
+        "article_desc": "Хотя критически важные сервисы продолжают работать, некоторые online-сервисы все еще недоступны."
+    },
+    "529136": {
+        "article_date_timestamp": 1643097646.0,
+        "article_title": "Создатель «Терминатора»: Скайнет разрушит мир с помощью не оружия, а дипфейков",
+        "article_url": "https://www.securitylab.ru/news/529136.php",
+        "article_desc": "По мнению Джеймса Кэмерона, для уничтожения человечества Скайнету будет достаточно лишь натравить людей друг на друга."
+    },
+    "529133": {
+        "article_date_timestamp": 1643095524.0,
+        "article_title": "Google обманом заставляла пользователей передавать свои геоданные",
+        "article_url": "https://www.securitylab.ru/news/529133.php",
+        "article_desc": "﻿В исках округа Колумбия и Техаса утверждается, что «обманчивая и несправедливая» практика могла нарушать местные законы."
+    },
+    "529129": {
+        "article_date_timestamp": 1643094187.0,
+        "article_title": "Apple пока не будет обязывать приложения обеспечивать простой способ удаления аккаунта",
+        "article_url": "https://www.securitylab.ru/news/529129.php",
+        "article_desc": "Компания отложила правило, согласно которому опцию удаления аккаунта должно быть легко найти в приложении."
+    },
+    "529128": {
+        "article_date_timestamp": 1643092545.0,
+        "article_title": "Хакеры активно эксплуатируют критическую уязвимость в SonicWall SMA",
+        "article_url": "https://www.securitylab.ru/news/529128.php",
+        "article_desc": "Уязвимость затрагивает устройства серии SMA 100, даже когда межсетевой экран web-приложений включен."
+    },
+    "529127": {
+        "article_date_timestamp": 1643090457.0,
+        "article_title": "Белорусские киберпартизаны атаковали железную дорогу",
+        "article_url": "https://www.securitylab.ru/news/529127.php",
+        "article_desc": "Хакеры взломали сервера БЖД, чтобы остановить войска России"
+    },
+    "529105": {
+        "article_date_timestamp": 1643054673.0,
+        "article_title": "Хакеры оставили Андорру без интернета из-за турнира по Minecraft",
+        "article_url": "https://www.securitylab.ru/news/529105.php",
+        "article_desc": "Неизвестные обрушили серверы единственного интернет-провайдера Андорры с помощью DDoS-атаки."
+    },
+    "529104": {
+        "article_date_timestamp": 1643053705.0,
+        "article_title": "Tor обжалует решение суда о блокировке в России",
+        "article_url": "https://www.securitylab.ru/news/529104.php",
+        "article_desc": "Владелец Tor Project подал апелляционную жалобу на решение суда о блокировке ресурса в России."
+    },
+    "529102": {
+        "article_date_timestamp": 1643034268.0,
+        "article_title": "Эксперты обеспокоены зависимостью Европы от китайских сканеров безопасности",
+        "article_url": "https://www.securitylab.ru/news/529102.php",
+        "article_desc": "Сканеры для грузов, багажа и пассажиров от китайской компании Nuctech используются в 26 из 27 стран Евросоюза."
+    },
+    "529100": {
+        "article_date_timestamp": 1643028212.0,
+        "article_title": "Польские сенаторы задумались о регулировании использования шпионского ПО в стране",
+        "article_url": "https://www.securitylab.ru/news/529100.php",
+        "article_desc": "К такому решению законодатели пришли после скандала с использованием программы Pegasus в политических целях."
+    },
+    "529159": {
+        "article_date_timestamp": 1643121225.0,
+        "article_title": "Meta работает над собственным суперкомпьютером",
+        "article_url": "https://www.securitylab.ru/news/529159.php",
+        "article_desc": "По словам Meta, ее новый AI Research SuperCluster уже является одной из самых скоростных машин такого типа в мире."
+    }
+}
