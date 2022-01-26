@@ -100,5 +100,23 @@
         "article_title": "Meta работает над собственным суперкомпьютером",
         "article_url": "https://www.securitylab.ru/news/529159.php",
         "article_desc": "По словам Meta, ее новый AI Research SuperCluster уже является одной из самых скоростных машин такого типа в мире."
+    },
+    "529171": {
+        "article_date_timestamp": 1643179515.0,
+        "article_title": "РКН оштрафует соцсети за игнорирование жалоб пользователей",
+        "article_url": "https://www.securitylab.ru/news/529171.php",
+        "article_desc": "В Кодекс об административных правонарушениях РФ могут внести положения о привлечении соцсетей к ответственности за ненадлежащее и несвоевременное реагирование на жалобы пользователей."
+    },
+    "529170": {
+        "article_date_timestamp": 1643178678.0,
+        "article_title": "Роскомнадзор будет блокировать звонки с подменных номеров",
+        "article_url": "https://www.securitylab.ru/news/529170.php",
+        "article_desc": "Роскомнадзор приобретет технологию, которая блокирует подменные номера."
+    },
+    "529161": {
+        "article_date_timestamp": 1643139113.0,
+        "article_title": "Хакеры The Infraud Organization согласились сотрудничать со следствием",
+        "article_url": "https://www.securitylab.ru/news/529161.php",
+        "article_desc": "Киберпреступники дали показания на предполагаемого основателя хакерской группы Андрея Новака."
     }
 }
