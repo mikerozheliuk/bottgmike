@@ -118,5 +118,95 @@
         "article_title": "Хакеры The Infraud Organization согласились сотрудничать со следствием",
         "article_url": "https://www.securitylab.ru/news/529161.php",
         "article_desc": "Киберпреступники дали показания на предполагаемого основателя хакерской группы Андрея Новака."
+    },
+    "529309": {
+        "article_date_timestamp": 1643545839.0,
+        "article_title": "LockBit заявила о похищении данных Минюста Франции",
+        "article_url": "https://www.securitylab.ru/news/529309.php",
+        "article_desc": "Министерство было добавлено на сайт утечек LockBit вместе с данными десятков европейских компаний и городов."
+    },
+    "529308": {
+        "article_date_timestamp": 1643529659.0,
+        "article_title": "Минцифры: Запрет криптовалют приведет к оттоку ИТ специалистов из страны",
+        "article_url": "https://www.securitylab.ru/news/529308.php",
+        "article_desc": "Минцифры также поддерживает и разделяет позицию о необходимости реагировать на риски, связанные с использованием криптовалют"
+    },
+    "529307": {
+        "article_date_timestamp": 1643492231.0,
+        "article_title": "Александр Хинштейн поделился мнением о влиянии киберспорта и игр на политику",
+        "article_url": "https://www.securitylab.ru/news/529307.php",
+        "article_desc": "Депутат высказался о правовом регулировании рынка видеоигр, а также оценил политический потенциал индустрии."
+    },
+    "529306": {
+        "article_date_timestamp": 1643453267.0,
+        "article_title": "QNAP принудительно обновила NAS-устройства после атаки вымогателя DeadBolt",
+        "article_url": "https://www.securitylab.ru/news/529306.php",
+        "article_desc": "Операторы вымогательского ПО успешно зашифровали более 3,6 тыс. устройств."
+    },
+    "529305": {
+        "article_date_timestamp": 1643447297.0,
+        "article_title": "Южнокорейские ученые предлагают использовать шелк для надежной криптозащиты",
+        "article_url": "https://www.securitylab.ru/news/529305.php",
+        "article_desc": "Исследователи из Института науки и технологий в Кванджу разработали технологии шифрования большой криптографической стойкости с использованием уникальной структуры волокон шелка."
+    },
+    "529303": {
+        "article_date_timestamp": 1643402526.0,
+        "article_title": "Microsoft отразила DDoS-атаку рекордной мощности",
+        "article_url": "https://www.securitylab.ru/news/529303.php",
+        "article_desc": "На пике мощность атаки достигала 3,47 Тбит/с."
+    },
+    "529302": {
+        "article_date_timestamp": 1643401569.0,
+        "article_title": "Хакеры украли $80 млн у DeFi-платформы Qubit Finance",
+        "article_url": "https://www.securitylab.ru/news/529302.php",
+        "article_desc": "Представители проекта подтвердили факт взлома и рассказали, что отслеживают похищенные средства."
+    },
+    "529300": {
+        "article_date_timestamp": 1643385784.0,
+        "article_title": "ВТБ предупреждает о росте числа мошенничеств с обнулением счета",
+        "article_url": "https://www.securitylab.ru/news/529300.php",
+        "article_desc": "Мошенниками была разработана новая схема, в которой используются фишинговые сайты, которые маскируются под сервисы по продаже билетов на концерты."
+    },
+    "529298": {
+        "article_date_timestamp": 1643379925.0,
+        "article_title": "В Пенсильвании могут запретить использование AirTag для слежки",
+        "article_url": "https://www.securitylab.ru/news/529298.php",
+        "article_desc": "В Пенсильвании представлен законопроект, запрещающий отслеживание местоположения граждан и их собственности без их ведома."
+    },
+    "529295": {
+        "article_date_timestamp": 1643375088.0,
+        "article_title": "Conti потребовала выкуп в размере $15 млн у тайваньского подрядчика Apple и Tesla",
+        "article_url": "https://www.securitylab.ru/news/529295.php",
+        "article_desc": "Операторы Conti зашифровали 1,5 тыс. серверов и 12 тыс. компьютеров из примерно 65 тыс. устройств в сети Delta Electronics."
+    },
+    "529289": {
+        "article_date_timestamp": 1643369512.0,
+        "article_title": "Полиция Германии намерена расследовать преступления с использованием Telegram",
+        "article_url": "https://www.securitylab.ru/news/529289.php",
+        "article_desc": "Как полагают власти, от радикализации людей в Telegram страдают политические деятели и уполномоченные лица."
+    },
+    "529286": {
+        "article_date_timestamp": 1643366400.0,
+        "article_title": "Уязвимость в Microsoft Outlook позволила хакерам обойти защиту электронной почты",
+        "article_url": "https://www.securitylab.ru/news/529286.php",
+        "article_desc": "Ее эксплуатация позволила злоумышленникам использовать службу для отправки вредоносов пользователям Windows."
+    },
+    "529285": {
+        "article_date_timestamp": 1643364771.0,
+        "article_title": "Apple запатентовала систему авторизации через наушники",
+        "article_url": "https://www.securitylab.ru/news/529285.php",
+        "article_desc": "AirPods смогут использоваться для биометрической аутентификации пользователей по ушам."
+    },
+    "529283": {
+        "article_date_timestamp": 1643362206.0,
+        "article_title": "Исходный код вредоноса BotenaGo опубликован на GitHub",
+        "article_url": "https://www.securitylab.ru/news/529283.php",
+        "article_desc": "Публикация исходного кода поставила под угрозу атак миллионы маршрутизаторов и IoT-устройств."
+    },
+    "529281": {
+        "article_date_timestamp": 1643360401.0,
+        "article_title": "Крупнейшая IT-конференция HighLoad++",
+        "article_url": "https://www.securitylab.ru/news/529281.php",
+        "article_desc": "17 и 18 марта 2022 года в Москве состоится крупнейшая в Европе IT-конференция HighLoad++ Foundation."
     }
 }
