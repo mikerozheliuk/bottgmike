@@ -1,2 +1,2 @@
-token = "5116702824:AAEWtx5x40xZ2h89lRnYN7k6ISYTEnKcTgE"
-user_id = 947478991
+token = ""
+user_id = 
